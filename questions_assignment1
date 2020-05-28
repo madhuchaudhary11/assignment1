@@ -1,0 +1,48 @@
+1.  WAP to count number of bits to be changed after the converting first number to second number using bitwise operator.
+    Ex:     i/p:        n1 = 8, n2 = 7
+                        binary for n1 = 00001000
+                        binary for n2 = 00000111
+                        for the given example if we convert n1 to n2 then 4 bits we need to change.
+            0/p:    4
+
+2.  WAP to print the following pattern.
+        a
+        B c
+        D e F
+        g H i J
+        k L m N o
+    Note: Create generic code for pattern.
+
+3.  WAP to search digit and it's position from left side which is perfect number for given integer number.
+    Ex: i/p: n = 4762591
+        o/p: from left side 3rd digit is the perfect number which is 6.
+
+4.  WAP to find common element in three sorted array.
+    Ex:     a1 = {1, 5, 10, 20, 40, 80}
+            a2 = {6, 7, 20, 80, 100}
+            a3 = {3, 4, 15, 20, 30, 70, 80, 120}
+    o/p:    20, 80
+
+5.  WAP to reverse elements which are prime number from given array.
+    Ex:     i/p = {10, 13, 20, 17, 24}
+            o/p = {10, 31, 20, 71, 24}
+    Here in given example 13 and 17 are prime numbers so after reversing elements are 31 and 71.
+
+6.  WAP to find pair in an array with largest product.
+    Ex:     i/p: {1, 0, 3, 2, 4}
+            o/p: 3*4 = 12
+
+7.  WAP to check if two given string is anagram of each other or not.
+    Ex:     a1 = "Army"
+            a2 = "Mary"
+    o/p:    anagram string
+    An anagram contains same length and same characters, but ina different order.
+
+8.  WAP to check if a given string is a Palindrome or not.
+
+9.  WAP to check if given number is Armstrong or not using recursive function.
+    Note: Use this prototype:- int my_fun(int*);
+
+10. WAP to implement user defined strcat() function using recursive function.
+
+*-----*-----*-----*-----*-----*-----*-----Finish-----*-----*-----*-----*-----*-----*-----*
